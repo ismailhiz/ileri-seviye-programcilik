@@ -36,12 +36,12 @@ Projeler, PHP ile oluşturduğumuz admin paneli ve diğer web uygulamaları üze
 
 1. **Repo'yu Klonlayın:**
     ```bash
-    git clone https://github.com/kullaniciadi/ileri-internet-programciligi.git
+    git clone https://github.com/ismailhiz/ileri-seviye-programcilik.git
     ```
 
 2. **Gerekli Bağımlılıkları Yükleyin:**
     ```bash
-    cd ileri-internet-programciligi
+    cd ileri-seviye-programcilik
     ```
 
 3. **Proje Dosyalarını Çalıştırın:** PHP dosyalarını XAMPP veya WAMP gibi bir local sunucuda çalıştırın. Veritabanı bağlantısı için uygun ayarları yapın.
