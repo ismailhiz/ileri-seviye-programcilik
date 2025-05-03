@@ -6,21 +6,17 @@ RAPOR İÇİN GEREKENLER
 --1- Projenizin çözüm getirdiği problem durumu nedir? Problemin belirlenmesi
 aşamasında Balık Kılçığı (Ishikawa Diyagramı) kullanarak detaylı açıklayınız:
 
-2-Projenizi piyasadaki benzer işle ilgilenen web sitelerinden farklı olarak ortaya
+--2-Projenizi piyasadaki benzer işle ilgilenen web sitelerinden farklı olarak ortaya
 ne koymuştur? Problemin planlanmasında Swot analizi kullanarak güçlü ve
 zayıf yönleri aynı zamanda fırsatları ve tehditleri detaylı açıklayınız:
 
-3-Projenin Gantt şemasını çiziniz?
+--3-Projenin Gantt şemasını çiziniz?
 
 4-Projenin akış süreç şeması (Algoritma) ve pseudocode (Sözde Kod)
 oluşturunuz?
 
 5- Projenin varlık ilişki diyagramını oluşturunuz?
 
-
--pseudeo code 
--warnieor diyagramı
--
 
 
 BALIK KILÇIĞI NOTU
@@ -104,3 +100,31 @@ GANT ŞEMASI
 -Test Süreci : 1
 -Canlıya Çıkış : 1
 
+
+SWOT ANALİZİ
+
+
+S
+-Sınıflar arası etkileşim: Sınıflar arasındaki etkileşimi sağlamak öğrencilerin birbirine danışarak öğrenmelerini pekiştirir. 
+
+-Yapay zeka ile başarı hesaplama: Öğrencilerin yapay zeka ile birçok faktörü ele alarak başarılarını hesaplamaları onların geleceğe dair eksikliklerini görüp, daha iyi notlar almasını sağlayabilir. 
+
+-Öğrenci merkezli platform: Öğrencileri merkez alarak kurulan bir platform, onların ihtiyaçlarını gözeterek özellikleri şekillendirir. Notlar, blog, topluluk gibi birçok özelliğimiz öğrencilerimize hitap etmektedir.
+W
+-Teknik sorunlar: Fazla öğrenciler sisteme giriş yaparak, sistemi çökertebilir veya kurulan sistemin ilerleyen süreçlerde yetersiz kalması kullanıcıların deneyimini etkiler. 
+
+-Yetersiz üye sayısı: Üye sayısının yetersiz olması; notların, topluluğun ve blogların az olmasına sebep olabilir. Bu durum ise platformun en güçlü yönü olan etkileşimi olumsuz etkiler.
+
+-Platform denetimi: Öğrencilerin yazdığı bloglar, paylaştığı notlar konusunda denetimde zorluk çekebiliriz. Bu da saçma blogların veya ahlaksız notların paylaşımına sebep olabilir.
+O
+-kariyer rehberliği : Öğrencilerimizin ek hizmet olarak kariyer hizmetleri vererek, gelirlerine katkı sağlayabilirler. Toplu seminerler verebilir veya söyleşiler düzenleyebilirler. 
+
+-mentorluk: Bire bir mentorluk paketleri ile öğrenciler ek gelir elde edebilir. Öğrencinin gelişmek istediği alanla ilgili bir mentor tutarak gelişim yolunu daha hızlı tamamlar. 
+
+-yapay zeka entegrasyonunu geliştirmek: Yapay zekâ, geliştirildikçe eksik olduğun alanları belirleyip ne yapman gerektiği konusunda tavsiyeler vererek öğrenciler için bir rehber olabilir.
+T
+-Rekabetin artması: Farklı platformların ortaya çıkıp, kullanıcılarımızı almasıyla birlikte etkileşimimiz düşebilir veya daha kötü senaryolar yaşanabilir. 
+
+-Yetersiz kullanıcı etkileşimi: Yetersiz bir kullanıcı kitlesine sahip olmak, paylaşımların düşük olmasına neden olur. Bu da öğrencilerin daha az bilgiye ve nota ulaşabilmesine yol açar.
+
+-Güvenlik açıkları: Güvenlik açıkları nedeniyle siteye kolayca sızılabilir; bu da sitenin çökmesine veya tamamen kapatılmasına neden olabilir. Böyle bir durumda öğrencilerin emekleri boşa gidebilir.
