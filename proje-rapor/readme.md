@@ -3,7 +3,7 @@ RAPOR
 
 RAPOR İÇİN GEREKENLER
 
-1- Projenizin çözüm getirdiği problem durumu nedir? Problemin belirlenmesi
+--1- Projenizin çözüm getirdiği problem durumu nedir? Problemin belirlenmesi
 aşamasında Balık Kılçığı (Ishikawa Diyagramı) kullanarak detaylı açıklayınız:
 
 2-Projenizi piyasadaki benzer işle ilgilenen web sitelerinden farklı olarak ortaya
@@ -92,3 +92,15 @@ Neden: Öğrenciler kendi bölümleriyle ilgili bir blog aramak istediklerinde g
 Neden: Birçok blog sayfası bulunsa bile binlerce farklı blogun içerisinde öğrencilerin yazdığı bloglar öne çıkamıyor. Üniversite özelinde not paylaşımı olmadığından dolayı öğrenciler üst sınıfların veya sınıf ders notlarından faydalanamıyor. 
 
 Çözüm: Öğrencilerin kolay bir şekilde notlarını ve bloglarını yazarak paylaşabilecekleri bu platform ile kolay bir şekilde kendilerinin haricinde insanlarında gelişmesine katkı sağlayabilir, bloglarını kendi cv’lerinde göstererek iş arayışında kendilerine katkı sağlayabilirler. 
+
+
+GANT ŞEMASI
+
+-Tasarım Süreci :1
+-Front-end Geliştirme : 4
+-Back-end Geliştirme :4
+-yapay zeka entegrasyonu :1
+-Siber güvenlik testi :2
+-Test Süreci : 1
+-Canlıya Çıkış : 1
+
