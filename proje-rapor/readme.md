@@ -128,3 +128,30 @@ T
 -Yetersiz kullanıcı etkileşimi: Yetersiz bir kullanıcı kitlesine sahip olmak, paylaşımların düşük olmasına neden olur. Bu da öğrencilerin daha az bilgiye ve nota ulaşabilmesine yol açar.
 
 -Güvenlik açıkları: Güvenlik açıkları nedeniyle siteye kolayca sızılabilir; bu da sitenin çökmesine veya tamamen kapatılmasına neden olabilir. Böyle bir durumda öğrencilerin emekleri boşa gidebilir.
+
+
+1- sadece öğrenciler giriş yapabiliyor.
+
+2- kullanıcılar (öğrencşler) not paylaşımı yapabiliyor, blog yazabiliyor görüntüleyebiliyor ve blogları favorileyebiliyor yıldızlayabilir veya kaydedebilir. etkinlikleri görüntüleyebiliyor ve etkinlik bileti için ilgili bağlantıya tıklayabiliyor. Yapay zeka ile başarı hesaplama kısmımızda ders calışma süresini, sınav notunu, motivasyon seviyesini, devam oranını girerek başarı ortalamsını görebiliyor. Topluluk sayfası aracılığıyla öğrenciler bir üst sınıflarıyla bağlantı numarası aracılığıyla etkileşime geçebilir. Sitemize kayıt olabilir. Profillerini görüntüleyebilirler. 
+
+3- ders yapımız yok sadece 2. de dediğim kısımları yapabiliyorlar. 
+
+4- Dersarkadaşım sadece bir ad işlevlerinden bahsettim ekstra olarak backend tarafında admin tarafından yapılan değişiklikler olabilir bunlardan da bahsetmem gerekli mi
+
+5-hayır 
+
+
+
+öncelikle varlık ilişkisinde, admin paneli eksik, admin panelinde ise kullanıcılar yazdığı noltarı bloglarını görebilir, düzenleyebilir ve silebilirler.  
+
+not paylaşımında ekstra olarak derste var 
+
+favori hesaplama değil başarı hesaplama onda da favori_id yerine başarı_id ekstra olarakta motivasyon seviyesi, ders çalışma süresi, sınav notu, devam oranı eklensin. Aslında etkinlikte coğuna yer vermissin yanlış olarka etkinlikte de, etkinlik_id eklensin, tarih dışında da hepsi kaldırılsın. 
+
+topluluk bağlantısı iki kere var bunu düzenle ve adını da Sınıflar arası etkileşim yap. 
+
+Öğrenci kısmında motivasyon seviyesi ve devamlılık oranı kaldırılsın 
+
+Şimdi sana dediğim bütün değişiklikleri yapıp tekrardanpng olarak yazdırır mısın 
+
+
